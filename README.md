@@ -1,2 +1,5 @@
 # switch_mode_srvs
-Service definition
+SwitchMode service definition for switch_mode server and client.
+
+## Installation
+Download to catkin workspace and build it.
